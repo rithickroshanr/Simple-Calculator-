@@ -19,8 +19,7 @@ A clean, minimalist calculator built using HTML, CSS, and JavaScript. This proje
 
 ## Live Demo
 
-You can try out the calculator live here: [Link to your GitHub Pages or other live demo URL]
-*(Remember to replace `[Link to your GitHub Pages or other live demo URL]` with the actual link once you deploy it!)*
+You can try out the calculator live here: [(https://rithickroshanr.github.io/Simple-Calculator-/)]
 
 ## Getting Started
 
@@ -76,7 +75,7 @@ If you have a suggestion that would make this better, please fork the repo and c
 ## Contact
 
 Your Name - rithickroshan749@gmail.com
-Project Link: [https://github.com/YourUsername/simple-calculator] (https://github.com/YourUsername/simple-calculator)
+Project Link: [(https://rithickroshanr.github.io/Simple-Calculator-/)] 
 
 ## Screenshot: 
 
