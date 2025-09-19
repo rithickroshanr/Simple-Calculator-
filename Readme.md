@@ -1,5 +1,4 @@
 # Simple Calculator
-<img width="436" height="868" alt="Screenshot 2025-09-19 164710" src="https://github.com/user-attachments/assets/2752779e-d3bc-49f8-ada3-7ca1442c5935" />
 
 A clean, minimalist calculator built using HTML, CSS, and JavaScript. This project demonstrates basic web development skills and provides a functional tool for everyday arithmetic.
 
@@ -15,7 +14,8 @@ A clean, minimalist calculator built using HTML, CSS, and JavaScript. This proje
 
 *   **HTML5:** For the structure and content of the calculator.
 *   **CSS3:** For styling and layout, making the calculator visually appealing.
-*   **JavaScript (ES6+):** For all the calculator's logic and interactivity.
+*   **JavaScript (ES6+):** For all the calculator's logic and interactivity. 
+
 
 ## Live Demo
 
@@ -77,6 +77,11 @@ If you have a suggestion that would make this better, please fork the repo and c
 
 Your Name - rithickroshan749@gmail.com
 Project Link: [https://github.com/YourUsername/simple-calculator] (https://github.com/YourUsername/simple-calculator)
+
+## Screenshot: 
+
+
+<img width="436" height="868" alt="Screenshot 2025-09-19 164710" src="https://github.com/user-attachments/assets/2752779e-d3bc-49f8-ada3-7ca1442c5935" />
 
 ---
 
