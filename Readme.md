@@ -74,7 +74,7 @@ If you have a suggestion that would make this better, please fork the repo and c
 5.  Open a Pull Request
 ## Contact
 
-Your Name - rithickroshan749@gmail.com
+rithickroshan749@gmail.com
 Project Link: [(https://rithickroshanr.github.io/Simple-Calculator-/)] 
 
 ## Screenshot: 
